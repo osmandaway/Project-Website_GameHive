@@ -2,17 +2,7 @@
 
 ![avatar (1)](https://user-images.githubusercontent.com/95492416/234552592-4f870a63-913d-45a4-8575-368a87474904.png)
 
-## Important :
 
-Avant tout, il est fortement conseillé de lire le README sur GitHub pour avoir les images et la mise en forme. Cependant si ce n'est pas possible, ce n'est pas grave car ce sont surtout des illustrations mais le lien de chaque image pourrait réduire la lisibilité et la compréhension.
-
-Lien README: https://github.com/victrolles/Website-GameHive/blob/main/README.md
-
-Le projet est sauvegardé sur GitHub en Public :
-
-Lien Projet : https://github.com/victrolles/Website-GameHive
-
-Nous avons réalisé **3 commentaires groupés**, relative à leur langage, localisés dans les fichiers **accueil.php**, **functions.js** et **style.css**.
 
 ## Introduction :
 
@@ -70,19 +60,6 @@ En plus du site Twitter, nous nous sommes inspirés de 2 vidéos pour le CSS du 
 
 En plus d'avoir regardé des vidéos Youtube de Dgeo Dev et d'autres et des forums comme StackOverflow pour la globalité du projet, je (Victor Goudal) me suis fait aider par **ChatGPT** pour découvrir, apprendre et réaliser la partie Ajax et donc réaliser dans un premier temps la messagerie instantanée. J'ai tout de même très restreint son utilisation dans le reste du projet (différents fichiers PHP, CSS, SQL).
 
-### Répartition des tâches :
-
-Nous avons, ensemble, brainstormé sur les fonctionnalités, réalisé sur papier les designs des modifications et fonctionnalités apportées et réalisé une première version de la base de données sur Creately.
-
-- **Osman** :
-  - Réalisation de l'HTML et du CSS des pages (accueil.php et index.php).
-  - Reprise du PHP des pages **login.php et signup.php** (Victor) pour y implémenter le CSS.
-  
-
-- **Victor** :
-  - Réalisation de tout le **PHP, Javascript et AJAX** du site.
-  - Reprise du CSS des pages **signup.php et accueil.php** (Osman) pour faire le **CSS de toutes les autres pages**.
-  - Réalisation du README et des commentaires.
 
 ## Informations concernant la composition du site (BDD, fonctionnalités) :
 
